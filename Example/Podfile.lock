@@ -1,0 +1,16 @@
+PODS:
+  - ConnectToolOC (0.1.0)
+
+DEPENDENCIES:
+  - ConnectToolOC (from `../`)
+
+EXTERNAL SOURCES:
+  ConnectToolOC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConnectToolOC: 608fc6e0b5a2a24b8f03eced1a4465786a1f7c69
+
+PODFILE CHECKSUM: 09877d9b19c0521f533235dc92a7636768bb6cab
+
+COCOAPODS: 1.15.2
