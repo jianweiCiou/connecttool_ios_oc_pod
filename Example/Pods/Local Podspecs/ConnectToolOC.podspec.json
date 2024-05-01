@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "17dame Connect Tool OC version.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/jianweiCiou/com.17dame.connecttool_ios_oc_pod",
+  "homepage": "https://github.com/jianweiCiou/connecttool_ios_oc_pod",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "jianweiCiou": "jianwei.ciou@gmail.com"
   },
   "source": {
-    "git": "https://github.com/jianweiCiou/com.17dame.connecttool_ios_oc_pod.git",
+    "git": "https://github.com/jianweiCiou/connecttool_ios_oc_pod.git",
     "tag": "0.1.0"
   },
   "platforms": {
